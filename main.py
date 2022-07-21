@@ -3,8 +3,6 @@ from turtle import Screen
 from time import sleep
 from score_board import ScoreBoard
 from food import Food
-import winsound
-from playsound import playsound
 from pygame import mixer
 
 # Screen Setup
